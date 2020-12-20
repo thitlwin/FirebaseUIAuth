@@ -108,6 +108,7 @@ From Fragment/Activity
             firebaseAuth.removeAuthStateListener(authStateListener)
         }
     }
+    
 Reference
 - https://developer.android.com/codelabs/advanced-android-kotlin-training-login?hl=en&continue=https%3A%2F%2Fcodelabs.developers.google.com%2F%3Fhl%3Den#0
 
